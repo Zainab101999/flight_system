@@ -1,1 +1,2 @@
 # flight_system
+In the above project I have created a database for a flight booking system for domestic flights using MySQLWorkbench. First I created a conceptual model using an entity-relationship diagram with 4 entities, tickets, passenger, flights and airports. Based on this model I created a logical model including 2 other entities, flight class and airline. Then I created a physical model on MySQLWorkbench and assigned foreign keys and primary keys to each table. After the physical model was ready I created the database using forward engineering.
